@@ -2,4 +2,20 @@ body {
 	margin:0;
 	padding:0;
 	color:black;
+	background-color:white;
+}
+h1 {
+	font-size:20px; 
+}
+h2 {
+	font-size:19px; 
+}
+h3 {
+	font-size:18px; 
+}
+h4 {
+	font-size:16px; 
+}
+h5 {
+	font-size:14px; 
 }
